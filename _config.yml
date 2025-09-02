@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Haoyi Song"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student in IOE at the Umich"
+  bio              : "Ph.D. Student in IOE at Umich"
   location         : "Ann Arbor, MI, USA"
-  employer         : "University of Michigan--Ann Arbor"
+  employer         : "University of Michigan"
   uri              : # URL
   email            : "haoyiso@umich.edu" 
 
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/haoyi-song-4786a6208"
+  linkedin         : "haoyi-song-4786a6208"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
