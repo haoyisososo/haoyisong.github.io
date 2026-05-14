@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Industrial and Operations Engineering, University of Michigan, Ann Arbor, expected 2030
-* M.S. in Statistics, University of Michigan, Ann Arbor, 2025
-* Exchange Student, University of California, Berkeley, 2022–2023
+* Ph.D in Industrial and Operations Engineering, University of Michigan Ann Arbor, expected 2030
+* M.S. in Statistics, University of Michigan Ann Arbor, 2025
+* Exchange Student, University of California Berkeley, 2022–2023
 * B.S. in Mathematics, Sun Yat-sen University, 2023
 
 Award
